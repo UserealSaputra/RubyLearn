@@ -1,3 +1,7 @@
 # RubyLearn
 Hari pertama belajar ruby
-Saya tidak mengerti kenapa minggu disebut ahad
+
+
+
+
+Hari ini adalah hari ulang tahun
